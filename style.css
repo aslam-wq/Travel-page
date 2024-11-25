@@ -1,0 +1,58 @@
+img.slide{
+    height: 700px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.text-img{
+    height: 520px;
+    /* background-color: brown; */
+
+    
+}
+
+.found-img{
+    height: 450px;
+}
+.text-2{
+    width: 1000px;
+    background: chartreuse;
+}
+/* #ebd6a */
+/* bisque */
+/* .second{
+    justify-content: center;
+    
+
+} */
+div.card { 
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+.video{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    
+}
+.card{
+    transition: all 0.3s;
+}
+.card.card:hover{
+    transform: scale(1.15);
+}
+.card-content .btn{
+    display: inline-block;
+    padding: 8px 16px;
+}
+/* .video{
+    background-color: black;
+    border-radius: 20px;      
+    padding: 20px;      
+} */
+
+.form-container{
+    transition: all 0.3s ease;
+}
+.form-container:hover{
+    transform: scale(1.1);
+}
